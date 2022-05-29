@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15591" started-at="2022-05-29T10:56:57Z" finished-at="2022-05-29T10:57:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15591" started-at="2022-05-29T10:56:57Z" finished-at="2022-05-29T10:57:12Z">
+      <class name="testcases.VideoGameAPITests">
+        <test-method status="PASS" signature="test_getAllVideoGames()[pri:0, instance:testcases.VideoGameAPITests@5a61f5df]" name="test_getAllVideoGames" duration-ms="6222" started-at="2022-05-29T16:26:57Z" finished-at="2022-05-29T16:27:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getAllVideoGames -->
+        <test-method status="PASS" signature="test_addNewVideoGame()[pri:0, instance:testcases.VideoGameAPITests@5a61f5df]" name="test_addNewVideoGame" duration-ms="1185" started-at="2022-05-29T16:27:03Z" finished-at="2022-05-29T16:27:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_addNewVideoGame -->
+        <test-method status="PASS" signature="test_getVideoGame()[pri:0, instance:testcases.VideoGameAPITests@5a61f5df]" name="test_getVideoGame" duration-ms="4883" started-at="2022-05-29T16:27:04Z" finished-at="2022-05-29T16:27:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getVideoGame -->
+        <test-method status="PASS" signature="test_updateVideoGame()[pri:0, instance:testcases.VideoGameAPITests@5a61f5df]" name="test_updateVideoGame" duration-ms="182" started-at="2022-05-29T16:27:09Z" finished-at="2022-05-29T16:27:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_updateVideoGame -->
+        <test-method status="PASS" signature="test_deleteVideoGame()[pri:0, instance:testcases.VideoGameAPITests@5a61f5df]" name="test_deleteVideoGame" duration-ms="3079" started-at="2022-05-29T16:27:09Z" finished-at="2022-05-29T16:27:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_deleteVideoGame -->
+      </class> <!-- testcases.VideoGameAPITests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8483" started-at="2022-05-29T06:11:51Z" finished-at="2022-05-29T06:12:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8483" started-at="2022-05-29T06:11:51Z" finished-at="2022-05-29T06:12:00Z">
+      <class name="testcases.VideoGameAPITests">
+        <test-method status="PASS" signature="test_getAllVideoGames()[pri:1, instance:testcases.VideoGameAPITests@4c70fda8]" name="test_getAllVideoGames" duration-ms="5500" started-at="2022-05-29T11:41:51Z" finished-at="2022-05-29T11:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getAllVideoGames -->
+        <test-method status="PASS" signature="test_addNewVideoGame()[pri:2, instance:testcases.VideoGameAPITests@4c70fda8]" name="test_addNewVideoGame" duration-ms="923" started-at="2022-05-29T11:41:57Z" finished-at="2022-05-29T11:41:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_addNewVideoGame -->
+        <test-method status="PASS" signature="test_getVideoGame()[pri:3, instance:testcases.VideoGameAPITests@4c70fda8]" name="test_getVideoGame" duration-ms="1791" started-at="2022-05-29T11:41:58Z" finished-at="2022-05-29T11:42:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getVideoGame -->
+        <test-method status="PASS" signature="test_updateVideoGame()[pri:4, instance:testcases.VideoGameAPITests@4c70fda8]" name="test_updateVideoGame" duration-ms="122" started-at="2022-05-29T11:42:00Z" finished-at="2022-05-29T11:42:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_updateVideoGame -->
+        <test-method status="PASS" signature="test_deleteVideoGame()[pri:5, instance:testcases.VideoGameAPITests@4c70fda8]" name="test_deleteVideoGame" duration-ms="104" started-at="2022-05-29T11:42:00Z" finished-at="2022-05-29T11:42:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_deleteVideoGame -->
+      </class> <!-- testcases.VideoGameAPITests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
